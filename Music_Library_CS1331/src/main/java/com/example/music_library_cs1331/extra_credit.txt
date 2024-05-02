@@ -1,0 +1,12 @@
+ADDITIONAL FEATURES:
+
+setOnMouseEntered and setOnMouseExited:
+
+- When the cursor enters one of the labels or spaces in the library, the background color
+will change to a lighter tone of gray and the text "Empty" will be changed to "Add (+)".
+- When the cursor exits the space, background color and text will return to default.
+
+generateColor():
+
+- A method helper that randomize color rgb for a space background when a song is added.
+- Color is ranged not too dark and not too bright.
